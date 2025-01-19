@@ -1,2 +1,2 @@
 # DeepLearningLearning
-For learning deep learning, machine learning, ai
+For learning deep learning, machine learning & ai
